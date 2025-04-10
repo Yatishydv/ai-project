@@ -42,3 +42,4 @@ Tech Innovations Tracker is a sleek and responsive web application that helps us
 ---
 
 © 2025 Tech Innovations Tracker
+![image](https://github.com/user-attachments/assets/ff0f82a7-dbad-4953-87c7-9334d8c6fa19)
