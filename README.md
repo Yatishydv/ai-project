@@ -34,10 +34,6 @@ Tech Innovations Tracker is a sleek and responsive web application that helps us
 - Optimized for desktops and mobile devices
 - Flexbox layout with adaptive inputs and buttons
 
-## 📌 Note
-
-- Ensure your API key has appropriate access.
-- For production, store your API key securely (e.g., use backend proxy).
 
 ---
 
